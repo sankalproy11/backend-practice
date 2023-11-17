@@ -1,0 +1,5 @@
+Create a Blog App
+
+Tasks:
+1. Define Routes for creating and retrieving posts.
+2. Define Routes for liking and unliking posts.
